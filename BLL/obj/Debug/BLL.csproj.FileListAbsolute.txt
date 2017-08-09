@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\BLL.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\DAL.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\bin\Debug\Model.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\BLL\obj\Debug\BLL.pdb

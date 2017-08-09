@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\bin\Debug\Model.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.dll
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.pdb
+E:\森垚的学习空间\大三下\软件工程\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
