@@ -9,7 +9,7 @@ The educational management system which is coded by Asp.net
 
 ![sql](sql.png)
 
-点击开始->程序->Microsoft SQL Server 2012->SQL Server Management Studio，选择SQL Server验证登录，连接后邮件点击数据库，菜单中点击附加，在对话框中点击添加，进入网站的DataBase文件夹，选择ResultsManage.mdf，确定。数据库下出现ResultsManage即数据库文件附加成功。
+点击开始->程序->Microsoft SQL Server 2012->SQL Server Management Studio，选择SQL Server验证登录，连接后右键点击数据库，菜单中点击附加，在对话框中点击添加，进入系统的文件夹，选择ResultsManage.mdf，确定。数据库下出现ResultsManage即数据库文件附加成功。
 
 2)   修改配置文件
 
